@@ -1,6 +1,4 @@
-# abpDemoJobs.RabbitMQ
-
-# AbpDemoJobs.Hangfire
+# AbpDemoJobs.RabbitMQ
 Abp VNext BackgroundJobs 后台服务 Demo
 
 ## 数据(RabbitMQ),配好连结 appsettings.json
